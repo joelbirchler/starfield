@@ -1,6 +1,6 @@
 # Starfield
 
-Playing around in ClojureScript. This is mostly a port of the starfield algorithm found [here](http://codentronix.com/2011/07/22/html5-canvas-3d-starfield/#more-597).
+Playing around in ClojureScript.
 
 ## Setup
 
